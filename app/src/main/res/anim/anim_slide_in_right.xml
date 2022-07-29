@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by Nikhil-z on 27/07/22, 2:17 PM
+  ~  * Copyright (c) 2022 . All rights reserved.
+  ~  * Last modified 27/07/22, 2:17 PM
+  ~  */
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+    <translate
+        android:duration="900"
+        android:fromXDelta="100%"
+        android:toXDelta="0%" />
+</set>

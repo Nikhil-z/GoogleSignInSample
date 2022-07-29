@@ -1,0 +1,13 @@
+
+<resources>
+    <attr name="colorBrand" format="color" />
+    <attr name="colorOnBrand" format="color" />
+    <attr name="colorBrandContainer" format="color" />
+    <attr name="colorOnBrandContainer" format="color" />
+    <attr name="harmonizeBrand" format="boolean" />
+    <attr name="colorBrand2" format="color" />
+    <attr name="colorOnBrand2" format="color" />
+    <attr name="colorBrand2Container" format="color" />
+    <attr name="colorOnBrand2Container" format="color" />
+    <attr name="harmonizeBrand2" format="boolean" />
+</resources>
